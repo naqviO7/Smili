@@ -1,3 +1,4 @@
+#EMOJI CONVERTER
 #simple emoji converter in python
 #you can find corresponding smily faces according to your input
 #you can get smily faces by pressing "windows+dot" in Windows Operating System
